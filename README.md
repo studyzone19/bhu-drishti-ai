@@ -107,9 +107,9 @@ VITE_API_URL=http://localhost:5000/api
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@landguard.ai | Admin@123 |
-| Field Officer | officer@landguard.ai | Officer@123 |
-| Citizen | citizen@landguard.ai | Citizen@123 |
+| Admin | admin@landguard.ai |........|
+| Field Officer | officer@landguard.ai | ....... |
+| Citizen | citizen@landguard.ai |.......|
 
 ## 8. API reference (summary)
 
